@@ -29,6 +29,8 @@ Created a Discord bot to simulate stock trading, integrating real-time stock dat
 - **Tools**: AWS, Azure ML, Jupyter Notebooks, Docker, Git, CI/CD, MongoDB
 - **Software**: MySQL, Tableau, SAS
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanandanRamasamy&layout=compact&card_width=600&theme=github_dark&count_private=true)
+
 ## 📚 Research & Work Experience
 
 I’ve had the opportunity to contribute to research and development projects in the renewable energy sector, where I applied machine learning models to predict whale occurrence and furthered data-driven research for offshore wind energy.
