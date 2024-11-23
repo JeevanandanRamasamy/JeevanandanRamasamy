@@ -6,12 +6,12 @@ Hi there! I'm a Computer Science and Data Science student at **Rutgers Universit
 
 - **Education**: Bachelor of Science in Computer Science and Data Science (with honors) from Rutgers University
 - **GPA**: 4.0/4.0
-- **Research Interests**: Renewable energy, machine learning, data science, natural language processing
+- **Research Interests**: Machine Learning, Data Science, Computer Vision, Natural Language Processing
 - **Certifications**: AWS Certified Developer – Associate, AI Skills Challenge (Microsoft), PyTorch Essential Training
 
 ## 🔥 Key Projects 
 
-Here are some of the projects I’ve worked on, which showcase my skills and expertise:
+Here are some of the projects I’ve worked on:
 
 ### [**Image Colorizer**](https://github.com/DanialMustafa/Image-Colorizer)
 Developed a deep learning model inspired by the *"Colorful Image Colorization"* paper to colorize grayscale images in the LAB color space. Optimized the architecture to handle dimension mismatches, achieving realistic results for landscapes.
