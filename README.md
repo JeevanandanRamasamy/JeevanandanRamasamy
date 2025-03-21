@@ -27,7 +27,7 @@ Created a Discord bot to simulate stock trading, integrating real-time stock dat
 - **Programming Languages**: Python, R, Java, C/C++
 - **Machine Learning & Data Science**: PyTorch, TensorFlow, XGBoost, scikit-learn, pandas, seaborn
 - **Tools**: AWS, Azure ML, Jupyter Notebooks, Docker, Git, CI/CD, MongoDB
-- **Software**: MySQL, Tableau, SAS
+- **Software**: MySQL, Tableau, JIRA, Confluence, SAS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanandanRamasamy&layout=compact&card_width=600&theme=github_dark&count_private=true)
 
