@@ -32,7 +32,7 @@ CNN-based grayscale to color image converter using the CIELAB color space
 
 ### [📈 College Tuition Prediction](https://github.com/JeevanandanRamasamy/College-Tuition-Prediction)
 Predicts U.S. college tuition using XGBoost and socio-economic indicators  
-🥇 **#1 out of 276** in Rutgers Data Science competition
+🥇 **#1 out of 50+** in class competition
 
 ### [📊 StockBot (Discord Simulator)](https://github.com/JeevanandanRamasamy/StockBot)
 Simulated stock trading with real-time API integration and MongoDB-based portfolio tracking
