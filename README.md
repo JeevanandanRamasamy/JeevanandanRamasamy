@@ -67,7 +67,7 @@ Simulated stock trading with real-time API integration and MongoDB-based portfol
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanandanRamasamy&layout=compact&card_width=600&theme=github_dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanandanRamasamy&hide_title=false&langs_count=20&layout=compact&card_width=800&theme=github_dark&count_private=true)
 
 ---
 
