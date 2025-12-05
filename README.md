@@ -1,80 +1,119 @@
-# Welcome to My GitHub Profile! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,003057,b3a369&height=250&section=header&text=Jeeva%20Ramasamy&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=fadeIn&descAlignY=62&descAlign=50" alt="Jeeva Ramasamy Header" />
 
-Hi there! I'm Jeeva Ramasamy — a CS + Data Science graduate from **Rutgers University (4.0 GPA)** and incoming MSCS student at **Georgia Tech (Machine Learning specialization)**. I’m passionate about **machine learning**, **full-stack development**, and **solving real-world problems** using data and software.
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=MSCS+@+Georgia+Tech;Machine+Learning+Researcher;Full-Stack+Engineer;Published+Author+in+Nature&font=Fira%20Code&center=true&width=500&height=30&color=38bdae&vCenter=true&pause=1000" alt="Typing SVG" />
+  <br />
+  
+  <div align="center">
+    <a href="https://www.linkedin.com/in/jeeva-ramasamy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:jeevanandan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://jeevaramasamy.me/"><img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://scholar.google.com/citations?user=MmrousYAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Scholar"/></a>
+  </div>
+</div>
 
----
+<br />
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
+I am a **Machine Learning Engineer** and **Full-Stack Developer** currently pursuing my **M.S. in CS at Georgia Tech**. I specialize in bridging the gap between state-of-the-art research (CV, Deep Learning) and production-grade software (Distributed Systems, Cloud Infra).
 
-- 🎓 **Education**:
-  - M.S. in Computer Science (ML Specialization), Georgia Tech (2025–2027)
-  - B.S. in Computer Science & Data Science, Rutgers University — *Summa Cum Laude* (2021–2025)
-- 🧠 **Research**: ML for climate, vision, and humanitarian mapping; published in *Nature Scientific Reports*
-- 💼 **Experience**:
-  - SWE Intern @ Visible (real-time chat systems with Ably, React, Django, MongoDB)
-  - ML Intern @ Rutgers (solar forecasting, refugee detection with satellite imagery)
-  - NJEDA Fellow (marine conservation via ML)
-- 🛠️ **Skills**: Python, JavaScript, C++, PyTorch, React, AWS, Docker, MongoDB, SQL, REST APIs, Git, Kubernetes
-
----
-
-## 🔥 Featured Projects
-
-### [💬 RU Super Scheduler](https://github.com/JeevanandanRamasamy/RU-Super-Scheduler)
-Full-stack degree planning platform for Rutgers with AI-assisted course recommendations  
-**Tech**: React, Flask, MariaDB, REST APIs, Gemini API  
-🚀 Reduced course planning time by **40%**
-
-### [🎨 Image Colorizer](https://github.com/JeevanandanRamasamy/Image-Colorizer)
-CNN-based grayscale to color image converter using the CIELAB color space  
-**Tech**: PyTorch, OpenCV  
-🎯 Achieved **90%+ RGB similarity** on test set
-
-### [📈 College Tuition Prediction](https://github.com/JeevanandanRamasamy/College-Tuition-Prediction)
-Predicts U.S. college tuition using XGBoost and socio-economic indicators  
-🥇 **#1 out of 50+** in class competition
-
-### [📊 StockBot (Discord Simulator)](https://github.com/JeevanandanRamasamy/StockBot)
-Simulated stock trading with real-time API integration and MongoDB-based portfolio tracking
+* 🔭 **Research**: Published in *Nature Scientific Reports* (ML for Marine Conservation).
+* 💼 **Experience**: Scaled chat systems to **100k+ users** at Visible; improved solar forecasting by **39%** at Rutgers.
+* 🎓 **Academics**: Rutgers University CS & Data Science (*Summa Cum Laude*, 4.0 GPA).
+* 🏆 **Awards**: Top 2% of Graduates (Matthew Leydt Society), 1st Place Rutgers Data League.
 
 ---
 
-## 🧪 Research Highlights
+### 🛠️ Technical Arsenal
 
-- 🐋 **Whale Conservation**: Improved right whale detection accuracy from **16% → 56%** using supervised learning on satellite + underwater glider data. [Published in *Nature*](https://doi.org/10.1038/s41598-024-80084-z)
-- 🌞 **Solar Forecasting**: Built CNN pipeline with sky image sequences improving prediction by **20–39%**
-- 🗺️ **Refugee Detection**: Boosted humanitarian mapping efficiency by **70%**, using Google Cloud & CV
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
+| **ML & Data** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black) ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white) |
+| **Web & Backend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
+| **DevOps & DBs** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
 
----
-
-## 🏆 Achievements
-
-- 🥇 **Rutgers Data League Winner** (1st / 276 participants)
-- 📜 **Top 2% Graduate** (Matthew Leydt Society, Summa Cum Laude)
-- 🧠 **Certifications**:
-  - AWS Certified Developer – Associate
-  - Microsoft AI Skills Challenge (ML)
+<sub>**Concepts:** Data Structures & Algorithms • System Design • OOP • Cloud Computing • Unit Testing • Agile</sub>
 
 ---
 
-## 💼 Skills Snapshot
+### 🔥 Featured Projects
 
-**Languages**: Python, JavaScript, C++, Go, Java, Rust, SQL  
-**ML Tools**: PyTorch, TensorFlow, scikit-learn, OpenCV, XGBoost  
-**Frameworks**: React, Flask, Django, Node.js, FastAPI  
-**DevOps & Infra**: AWS, Docker, Git, MongoDB, Kubernetes, MariaDB  
-**Other**: REST APIs, CI/CD, Firebase, Linux, Agile, System Design
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### ⚡ [WattWindow](https://github.com/JeevanandanRamasamy/WattWindow)
+A real-time energy dashboard forecasting grid carbon intensity and recommending EV charging windows.
+- **Tech:** React, TypeScript, Flask, Prophet, Redis.
+- **Impact:** Delivers cached forecasts in **<100ms**; visualizes emissions data for U.S. BAA regions.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎼 [DeepJ](https://github.com/JeevanandanRamasamy/DeepJ)
+An intelligent DJ application that reads the room's energy to curate the perfect musical vibe in real-time.
+- **Tech:** GReact, Python, Gemini, Lyria API
+- **Focus:** Exploring neural style transfer techniques within the domain of music generation.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💬 [RU Super Scheduler](https://github.com/JeevanandanRamasamy/RU-Super-Scheduler)
+Full-stack degree planning platform for Rutgers with an integrated AI assistant.
+- **Tech:** React, Flask, MariaDB, Gemini API.
+- **Impact:** Reduced course planning time by **40%**; handles microservices for course audits.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎨 [Image Colorizer](https://github.com/JeevanandanRamasamy/Image-Colorizer)
+Deep learning pipeline converting grayscale images to realistic color using CIELAB color space.
+- **Tech:** PyTorch, OpenCV, CNNs.
+- **Impact:** Achieved **90%+ RGB similarity** on unseen landscape datasets.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📈 [College Tuition Prediction](https://github.com/JeevanandanRamasamy/College-Tuition-Prediction)
+Predictive model for U.S. college tuition costs based on socio-economic indicators.
+- **Tech:** XGBoost, Scikit-learn, Pandas.
+- **Impact:** Ranked **#1 out of 50+ teams** in class competition.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤖 Clash Royale Bot (WIP)
+End-to-end autonomous agent that navigates real-time gameplay loops using computer vision.
+- **Tech:** Python, OpenCV, OCR.
+- **Focus:** Automates unit placement strategies based on state analysis.
+
+</td>
+</tr>
+</table>
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanandanRamasamy&hide_title=false&langs_count=20&layout=compact&card_width=800&theme=github_dark&count_private=true)
+### 🧪 Research Highlights
 
----
+My research focuses on applying Machine Learning to environmental and humanitarian challenges.
 
-## 🌐 Let's Connect!
+> **🐋 Nature Scientific Reports (2024)**
+> <br> *Machine learning for modeling North Atlantic right whale presence*
+> <br> Co-authored a paper improving whale detection recall from **16% → 56%** using ensemble learning on satellite and glider data.
+> <br> [Read the Paper](https://doi.org/10.1038/s41598-024-80084-z)
 
-I’m always open to collaborations, internships, and exciting projects. Feel free to reach out!
+> **🗺️ Refugee Settlement Detection**
+> <br> Automated refugee settlement detection via Python ML pipelines using **Google Cloud** and satellite imagery.
+> <br> Achieved **82% classification accuracy**, significantly improving scalability over manual mapping efforts.
 
-- 📧 [jeevanandan@gmail.com](mailto:jeevanandan@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jeeva-ramasamy/)
-- 🌐 [Portfolio Website](https://jeeva-ramasamy.netlify.app)
+> **🌞 Solar Forecasting**
+> <br> Built a CNN pipeline using sky image sequences to improve short-term solar irradiance forecasting accuracy by **20–39%**, aiding in renewable energy grid stability.
+
+<!-- <div align="center">
+  <sub>Let's connect! I am currently open to Summer 2026 Internships in MLE and SWE.</sub>
+</div> -->
