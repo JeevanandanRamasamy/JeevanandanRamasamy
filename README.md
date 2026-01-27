@@ -35,6 +35,8 @@ I am a **Machine Learning Engineer** and **Full-Stack Developer** currently purs
 
 <sub>**Concepts:** Data Structures & Algorithms • System Design • OOP • Cloud Computing • Unit Testing • Agile</sub>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanandanRamasamy&hide_title=false&layout=compact&card_width=800&theme=github_dark&count_private=true&hide=jupyter%20notebook)
+
 ---
 
 ### 🔥 Featured Projects
