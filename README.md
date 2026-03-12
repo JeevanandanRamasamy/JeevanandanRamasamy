@@ -20,7 +20,7 @@ I am a **Machine Learning Engineer** and **Full-Stack Developer** currently purs
 * 🔭 **Research**: Published in *Nature Scientific Reports* (ML for Marine Conservation).
 * 💼 **Experience**: Scaled chat systems to **100k+ users** at Visible; improved solar forecasting by **39%** at Rutgers.
 * 🎓 **Academics**: Rutgers University CS & Data Science (*Summa Cum Laude*, 4.0 GPA).
-* 🏆 **Awards**: Top 2% of Graduates (Matthew Leydt Society), 1st Place Rutgers Data League.
+* 🏆 **Awards**: Matthew Leydt Society (Top 2% of Rutgers Graduates), 1st Place Rutgers Data League.
 
 ---
 
